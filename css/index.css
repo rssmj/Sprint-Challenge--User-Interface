@@ -114,7 +114,7 @@ p {
 }
 
 .container h2 {
-	font-size: 22px;
+	font-size: 20px;
 
 }
 
@@ -280,8 +280,8 @@ p {
 
 .bottom-content {
     display: flex;
-    margin: 0 2% 20px;
-    justify-content: space-around;
+    margin: 0 3% 20px;
+    justify-content: space-evenly;
 }
 
 .bottom-content .text-container {
